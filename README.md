@@ -1,7 +1,7 @@
 # Localisation-using-PSO
 Indoor Localisation using Particle Swarm Optimisation
 
-Implementation of Indoor Localisation using Particle Swarm Optimisation which takes input positions of the anchor nodes and distance between all the anchor nodes and target nodes.
+Implementation of Indoor Localisation using Particle Swarm Optimisation which takes input as positions of the anchor nodes and distance between all the anchor nodes and target nodes and determines the position of the target nodes
 
 References
 
