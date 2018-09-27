@@ -8,6 +8,10 @@ With 4 anchor nodes and 1 target node (100 iterations, Population : 100 birds)
 
 <img src="https://user-images.githubusercontent.com/25038853/42968015-91ce787a-8b91-11e8-88d7-5ab0f0fce110.png" width="350">
 
+### Course Project 
+This was a part of term project for the course Genetic Algorithms.
+</br> Full Report: https://drive.google.com/file/d/1tV6U-DmVL-5s8HJ23-Qme2eT9hEsannE/view?usp=sharing
+
 ## References
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4470122&tag=1
